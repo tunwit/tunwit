@@ -1,7 +1,5 @@
-Hi 👋 My name is LittLeBirDD
-============================
-
-A Computer Science Student at Kasetsart University Thailand
+<h1 align="center">Hi 👋, I'm LittLeBirDD</h1>
+<h3 align="center">A Computer Science Student at Kasetsart University Thailand</h3>
 -----------------------------------------------------------
 
 * 🌍  I'm based in sd

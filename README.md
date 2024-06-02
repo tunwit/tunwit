@@ -4,6 +4,7 @@
 - 💻 I’m currently working on my discord bot project [LittLeBirDD](https://discord.com/oauth2/authorize?client_id=891358646091513927&permissions=148582508664&scope=bot%20applications.commands)
 - 🏢 I’m currently a Dev at I AM FOOD Co., Ltd and I AM BUTCHER Co., Ltd
 
+
 ### Skills
 
 <p align="left">

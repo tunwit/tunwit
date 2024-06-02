@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm LittLeBirDD</h1>
 <h3 align="center">A Computer Science Student at Kasetsart University Thailand</h3>
 
-* 🌍  I'm based in sd
-* 🖥️  See my portfolio at [sdsd](http://ds)
+- 💻 I’m currently working on my discord bot project [LittLeBirDD](https://discord.com/oauth2/authorize?client_id=891358646091513927&permissions=148582508664&scope=bot%20applications.commands)
 
 ### Skills
 
